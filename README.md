@@ -48,9 +48,9 @@ conda install faiss-cpu -c pytorch
 
 ## Quick Start 
 [5 steps](./examples/bagtricks/main.py) to implement a SOTA reid model 
-
 [1 step](./examples/bagtricks_buildwithconfigs) to build a SOTA reid model with configs
-
+请参考这个[project](https://github.com/wangguanan/light-reid/tree/master/examples/bagtricks_buildwithconfigs)，运行直接训练+测试
+具体[测试脚本](https://github.com/wangguanan/light-reid/blob/master/lightreid/evaluations/rank/rank.py)
 
 ## Implemented reid methods and experimental results
 
